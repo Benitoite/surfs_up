@@ -25,7 +25,7 @@ The purpose of this analysis is to bring insight to investors to a potential com
 
 Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
 
-
+As these temperatures are very mild across both June and December, there is a high likelyhood of year-round success.  Another key weather indicator which may be analyzed from these measurement data is precipitation.  Although temperatures will stay mild, significant rain could hinder sales. 
 
 
 
