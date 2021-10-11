@@ -28,26 +28,31 @@ Situated 108 feet above sea level, the weather station "Waihee 837.5", the most 
 
 As these temperatures are very mild across both June and December, there is a high likelyhood of year-round success.
 
+|   |
+| :---:   |
+|  <img src="Resources/temp.png" width=900></img>  |
+|  Figure 1.  Oahu Temperature Observations (Station *Waihee 837.5* USC00519281)   |
+
 #### Another key weather indicator which may be analyzed from these measurement data is precipitation.
 
 |   |
 | :---:   |
 |  <img src="Resources/rain.png" width=900></img>  |
-|  Figure 1.  Oahu Precipitation Observations (Station *Waihee 837.5* USC00519281)   |
+|  Figure 2.  Oahu Precipitation Observations (Station *Waihee 837.5* USC00519281)   |
 
 ####   Although temperatures will stay mild, significant rain could hinder sales.
 
 |   |
 | :---:   |
 |<img src="Resources/rainzoom.png" width=900></img>|
-|  Figure 2.  Detail: Oahu Precipitation (Up to 1")   |
+|  Figure 3.  Detail: Oahu Precipitation (Up to 1")   |
 
 #### Fortunately, average daily rainfall for Oahu is just over two-tenths of an inch. 
 
 |   |
 | :---:   |
 |<img src="Resources/quarterinch.png" width=900></img>|
-|  Figure 3.  Oahu Precipitation Histogram  |
+|  Figure 4.  Oahu Precipitation Histogram  |
 
 #### While there are occassional storm systems, we expect only one out of every five days will see rain over one quarter-inch.
 
