@@ -1,10 +1,16 @@
 # *Surf's Up!*
-## Investing in Surf Boards and Ice Cream: Oahu meteorological analysis
+## Investing in Surf Boards and Ice Cream: O'ahu meteorological analysis
  
 ### Overview:
 
-The purpose of this analysis is to bring insight to investors to a potential combination surf board/ice cream shop on Oahu. In order for investors to have confidence in the business, they will need to explore what the weather is like on the island. This is due to the fact that surfing and ice cream are highly dependent on meteorological phenomena such as temperature and rain. Investors are specifically looking for data on June and December weather on Oahu to determine the likelyhood of success.
-Situated 108 feet above sea level, the weather station "Waihee 837.5", the most active on the Oahu network, will be used for the meteorological analysis.  This low-lying station overlooking the shores NNE (north-north-east) of Honolulu will be very representative of typical beach weather on Oahu.
+The purpose of this analysis is to bring insight to investors to a potential combination surf board/ice cream shop on O'ahu. In order for investors to have confidence in the business, they will need to explore what the weather is like on the island. This is due to the fact that surfing and ice cream are highly dependent on meteorological phenomena such as temperature and rain. Investors are specifically looking for data on June and December weather on O'ahu to determine the likelyhood of success.
+Situated 108 feet above sea level, the weather station "Waihee 837.5", the most active on the O'ahu network, will be used for the meteorological analysis.  This low-lying station overlooking the shores NNE (north-north-east) of Honolulu will be very representative of typical beach weather on O'ahu.
+ 
+|   |
+| :---:   |
+| <img src="Resources/oahu2.png"></img> |
+|  Location of Weather Station *Waihee 837.5* USC00519281)   |
+
 
 ### Results:
 
@@ -31,28 +37,28 @@ As these temperatures are very mild across both June and December, there is a hi
 |   |
 | :---:   |
 |  <img src="Resources/temp.png" width=900></img>  |
-|  Figure 1.  Oahu Temperature Observations (Station *Waihee 837.5* USC00519281)   |
+|  Figure 1.  O'ahu Temperature Observations (Station *Waihee 837.5* USC00519281)   |
 
 #### Another key weather indicator which may be analyzed from these measurement data is precipitation.
 
 |   |
 | :---:   |
 |  <img src="Resources/rain.png" width=900></img>  |
-|  Figure 2.  Oahu Precipitation Observations (Station *Waihee 837.5* USC00519281)   |
+|  Figure 2.  O'ahu Precipitation Observations (Station *Waihee 837.5* USC00519281)   |
 
 ####   Although temperatures will stay mild, significant rain could hinder sales.
 
 |   |
 | :---:   |
 |<img src="Resources/rainzoom.png" width=900></img>|
-|  Figure 3.  Detail: Oahu Precipitation (Up to 1")   |
+|  Figure 3.  Detail: O'ahu Precipitation (Up to 1")   |
 
 #### Fortunately, average daily rainfall for Oahu is just over two-tenths of an inch. 
 
 |   |
 | :---:   |
 |<img src="Resources/quarterinch.png" width=900></img>|
-|  Figure 4.  Oahu Precipitation Histogram  |
+|  Figure 4.  O'ahu Precipitation Histogram  |
 
 #### While there are occassional storm systems, we expect only one out of every five days will see rain over one quarter-inch.
 
@@ -65,4 +71,4 @@ As these temperatures are very mild across both June and December, there is a hi
 |<img src="Resources/icecreamwx.png" width=900></img>|
 |  Figure 5.  Days Rainfall < .25" and Temperature > 66℉  |
 
-In light of the Oahu station weather analysis, we anticipate success in both the surf board and ice cream components of the store.  With the right outlook on weather forcasting, the store can maintain good profitability by offering ice cream more frequently during the warmer half of the year (June-December), and holding back during periods of forecast heavy precipitation.  Also maintain an eye for forecast surfing weather, that is high sea-level wind speeds and vorticity, in order to time promotions and discounts to your best advantage.
+In light of the O'ahu station weather analysis, we anticipate success in both the surf board and ice cream components of the store.  With the right outlook on weather forcasting, the store can maintain good profitability by offering ice cream more frequently during the warmer half of the year (June-December), and holding back during periods of forecast heavy precipitation.  Also maintain an eye for forecast surfing weather, that is high sea-level wind speeds and vorticity, in order to time promotions and discounts to your best advantage.
