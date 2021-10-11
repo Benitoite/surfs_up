@@ -56,6 +56,13 @@ As these temperatures are very mild across both June and December, there is a hi
 
 #### While there are occassional storm systems, we expect only one out of every five days will see rain over one quarter-inch.
 
+### But is it Ice Cream Weather?
 
+#### For the purpose of this hypothetical query, we will define Ice Cream Weather as Rainfall < .25" and Temperature > 66℉.  We discovered that of 2356 days, 1714 of them were worthy of Ice Cream Weather status. That is nearly three out of four days, and lends to an ice cream season especially lengthy for any part of the world.  
 
+|   |
+| :---:   |
+|<img src="Resources/icecreamwx.png" width=900></img>|
+|  Figure 5.  Days Rainfall < .25" and Temperature > 66℉  |
 
+In light of the Oahu station weather analysis, we anticipate success in both the surf board and ice cream components of the store.  With the right outlook on weather forcasting, the store can maintain good profitability by offering ice cream more frequently during the warmer half of the year (June-December), and holding back during periods of forecast heavy precipitation.  Also maintain an eye for forecast surfing weather, that is high sea-level wind speeds and vorticity, in order to time promotions and discounts to your best advantage.
