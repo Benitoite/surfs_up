@@ -9,7 +9,7 @@ Situated 108 feet above sea level, the weather station "Waihee 837.5", the most 
 |   |
 | :---:   |
 | <img src="Resources/oahu2.png"></img> |
-|  Location of Weather Station *Waihee 837.5* USC00519281)   |
+|  Location of Weather Station *Waihee 837.5* (USC00519281)   |
 
 
 ### Results:
