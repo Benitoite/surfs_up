@@ -39,7 +39,7 @@ As these temperatures are very mild across both June and December, there is a hi
 |  <img src="Resources/temp.png" width=900></img>  |
 |  Figure 1.  O'ahu Temperature Observations (Station *Waihee 837.5* USC00519281)   |
 
-#### Another key weather indicator which may be analyzed from these measurement data is precipitation.
+#### Another key weather indicator which may be analyzed from these measurement data is precipitation.  In this hypothetical query, we analyze the precipitation data from **Waihee**.
 
 |   |
 | :---:   |
